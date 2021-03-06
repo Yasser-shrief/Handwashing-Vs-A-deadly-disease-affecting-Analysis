@@ -14,7 +14,7 @@ He is thinking about it because in the early 1840s at the Vienna General Hospita
 from it. He is thinking about it because he knows the cause of childbed fever: 
 It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and wash their hands!
 
-In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing.
+In this task, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing.
 Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures
 at Vienna General Hospital.
 
